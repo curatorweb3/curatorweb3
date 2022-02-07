@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @curatorweb3 the curator and owner to the 'Little Web3 Gallery'
-- 👀 I’m interested in Web3 decentralized art projects and NFT's evolvement in the DotSama Paraverse
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Web3 decentralized art projects and NFT's evolvement in the DotSama Paraverse 
 - 📫 How to reach me [littleweb3gallery.xyz](https://littleweb3gallery.xyz)
 
 <!---
